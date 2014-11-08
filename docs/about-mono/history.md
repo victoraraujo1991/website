@@ -18,7 +18,7 @@ Milestones
 2001
 ----
 
--   June 30: the Mono project is announced.
+-   Junho 30: The Projeto Mono é Anuniado!
 
 -   Aug 21: a remote compilation service is setup so that people who are contributing to Mono can submit their code over a web page and compile the code with the Microsoft C# compiler.
 
