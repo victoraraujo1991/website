@@ -1,15 +1,15 @@
 ---
-title: GtkSharpBeginnersGuide
+title: GuiaParaIniciantesGtk#
 redirect_from:
   - /GtkSharpBeginnersGuide/
 ---
 
-Preface
+Prefácio
 =======
 
-This article is a beginners guide to Gtk# programming. It will help those who have never programmed a Gtk+ GUI before to get started. Programmers familiar with the Gtk+ API from other languages (e.g. C, C++, perl, python) will also find it useful as it explains the basic process under Mono/C#. The article also introduces the use of Glade and libglade as a process for rapidly implementing graphic user interfaces.
+Este artigo é um guia para iniciantes em programação Gtk#. Isso irá ajudar pessoas que nunca programaram um GUI Gtk+ antes de iniciar. Programadores familiarizados com a API Gtk+ de outras linguagens de programação (ex. C, C++, perl, python) também irão se beneficiar com explicações do processo básico sobre o Mono/C#. O artigo também introduz o uso do Glade e libglade como um processo para implementar rapidamente interfaces gráficas.
 
-What is Gtk#?
+O que é o Gtk#?
 --------------
 
 [Gtk#](/docs/gui/gtksharp/) put simply is a wrapper on [gtk+](http://www.gtk.org), a cross platform GUI framework.
